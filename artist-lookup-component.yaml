@@ -29,6 +29,7 @@ metadata:
       title: Alerts
       icon: alert
   annotations:
+    github.com/project-slug: backstage/backstage
     backstage.io/source-template: template:default/springboot-template
     backstage.io/linguist: 'https://github.com/backstage/backstage/tree/master/plugins/playlist'
 spec:
